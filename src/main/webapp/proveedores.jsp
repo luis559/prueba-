@@ -14,7 +14,7 @@
         <div class="container">
             <header>
                 <h2>${message}</h2>
-                Click para el siguiente modulo <strong><a href="/next">Proveedores</a></strong> to visit another page.
+                Click para el siguiente modulo <strong><a href="/next">Next</a></strong> to visit another page.
                 <br>
                 <a href="https://datatables.net/examples/api/select_single_row.html">
                     https://datatables.net/examples/api/select_single_row.html
